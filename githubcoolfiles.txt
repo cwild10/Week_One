@@ -1,0 +1,28 @@
+https://github.com/iperov/DeepFaceLive.git
+
+This one involves deepface tacking for live videos, which is so intresting to learn about with the advances made to change a face on live feed.
+
+
+https://github.com/THUDM/CogVideo.git
+
+This makes it so you can turn a sentence into a generated video which is cool to be able to see the types of videos the AI thinks you are describing.
+
+
+https://github.com/MinecraftForge/MinecraftForge.git
+
+This makes it so that the base model for minecraft can be made compatible with different mods which allows the game to flow better.
+
+
+https://github.com/huginn/huginn.git
+
+This makes it so the program would post and act on your behalf on twitter which is nice for someone who is busy. 
+
+
+https://github.com/nytimes/covid-19-data.git
+
+This tracks the COVID data for NYTimes which as someone who worked with covid this is fascinating to view. 
+
+
+ https://github.com/github/gitignore.git
+
+A useful collection of gitignore templates.
